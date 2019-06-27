@@ -5,7 +5,6 @@ A full recreation of Jevil from Deltarune.  This repo includes all the assets an
 
 ---
 
-### Files:
     - credits.txt: Credits for helpers and some assets.
     
     - README.txt: Directions for installing the map and the resource pack.
