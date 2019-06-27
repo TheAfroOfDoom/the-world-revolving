@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by TheAfroOfDoom with Cubik Studio - https://cubik.studio",
+	"parent": "theafroofdoom:hostile/jevil/attacks/spade/base",
+	"display": {
+		"head": {
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

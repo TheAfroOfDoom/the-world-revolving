@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "theafroofdoom:block/lobby/diamond_door"
+	},
+	"elements": [
+		{
+			"from": [0, 0, -1.25],
+			"to": [16, 16, 1.25],
+			"faces": {
+				"north": {"uv": [2.75, 6.5, 11.25, 10], "texture": "#particle", "cullface": "north"},
+				"east": {"uv": [0, 0, 0.5, 2], "rotation": 180, "texture": "#particle", "cullface": "east"},
+				"south": {"uv": [0, 5.75, 13, 10], "texture": "#particle"},
+				"west": {"uv": [0, 0, 0.5, 2], "rotation": 180, "texture": "#particle", "cullface": "west"},
+				"up": {"uv": [0, 15.5, 16, 16], "texture": "#particle", "cullface": "up"},
+				"down": {"uv": [0, 15.5, 16, 16], "texture": "#particle"}
+			}
+		}
+	]
+}

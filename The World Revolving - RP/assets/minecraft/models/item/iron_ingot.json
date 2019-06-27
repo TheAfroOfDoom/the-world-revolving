@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_ingot"
+    },
+	
+	"overrides": [
+
+        { "predicate": {"custom_model_data": 1 }, "model": "theafroofdoom:miscellaneous/ui/check"},
+        { "predicate": {"custom_model_data": 2 }, "model": "theafroofdoom:miscellaneous/ui/check_plus"},
+		{ "predicate": {"custom_model_data": 3 }, "model": "theafroofdoom:miscellaneous/heart"}
+	]
+}

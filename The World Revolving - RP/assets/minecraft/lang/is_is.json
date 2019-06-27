@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Stillingar ...",
+    "options.chunks": "\u00a7e%s\u00a76 kl\u00fankar",
+    "options.clouds.fancy": "\u00a7cF\u00ednn",
+    "options.clouds.fast": "\u00a7cHratt",
+    "options.difficulty": "\u00a76Erfi\u00f0leiki\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cFri\u00f0s\u00e6lt",
+    "options.gamma": "\u00a76Birtustig (Bjart)\u00a7c",
+    "options.gamma.max": "\u00a7aBjart",
+    "options.mipmapLevels": "\u00a76Mipmap stig (Nei)\u00a7e",
+    "options.renderClouds": "\u00a76Sk\u00fd (Nei)\u00a7a",
+    "options.renderDistance": "\u00a76\u00deoka (7+)",
+    "options.video": "\u00a76Myndstillingar..."
+}

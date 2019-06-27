@@ -1,0 +1,12 @@
+{
+	"parent": "theafroofdoom:hostile/jevil/attacks/heart",
+	"textures": {
+		"particle": "theafroofdoom:black",
+		"texture": "theafroofdoom:entity/miscellaneous/heartbreak"
+	},
+	"display": {
+		"head": {
+			"scale":  [ 0.275, 0.275, 0.275 ]
+		}
+	}
+}

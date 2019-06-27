@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/barrier"
+    },
+    "display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+        },
+        "ground": {
+            "scale": [0, 0, 0]
+        }
+	},
+	
+	"overrides": [
+		
+        { "predicate": {"custom_model_data": 1 }, "model": "theafroofdoom:miscellaneous/ui/quit/quit"},
+        { "predicate": {"custom_model_data": 2 }, "model": "theafroofdoom:miscellaneous/ui/quit/health"}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/emerald"
+    },
+	
+	"overrides": [
+
+        { "predicate": {"custom_model_data": 1  }, "model": "theafroofdoom:miscellaneous/ui/act"},
+        { "predicate": {"custom_model_data": 2  }, "model": "theafroofdoom:miscellaneous/ui/act/check"},
+        { "predicate": {"custom_model_data": 3  }, "model": "theafroofdoom:miscellaneous/ui/act/hypnosis"},
+        { "predicate": {"custom_model_data": 4  }, "model": "theafroofdoom:miscellaneous/ui/act/pirouette"},
+
+        { "predicate": {"custom_model_data": 5  }, "model": "theafroofdoom:miscellaneous/ui/attack"},
+
+        { "predicate": {"custom_model_data": 6  }, "model": "theafroofdoom:miscellaneous/ui/defend"},
+
+        { "predicate": {"custom_model_data": 7  }, "model": "theafroofdoom:miscellaneous/ui/items"},
+
+        { "predicate": {"custom_model_data": 8  }, "model": "theafroofdoom:miscellaneous/ui/magic"},
+        { "predicate": {"custom_model_data": 9  }, "model": "theafroofdoom:miscellaneous/ui/magic/heal_prayer"},
+        { "predicate": {"custom_model_data": 10 }, "model": "theafroofdoom:miscellaneous/ui/magic/pacify"},
+        { "predicate": {"custom_model_data": 11 }, "model": "theafroofdoom:miscellaneous/ui/magic/rude_buster"},
+
+        { "predicate": {"custom_model_data": 12 }, "model": "theafroofdoom:miscellaneous/ui/spare"},
+
+        { "predicate": {"custom_model_data": 13 }, "model": "theafroofdoom:miscellaneous/ui/skip"}
+	]
+}

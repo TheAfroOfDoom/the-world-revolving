@@ -1,0 +1,51 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "theafroofdoom:font/deltarune.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uf002"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "theafroofdoom:font/heart.png",
+            "ascent": 7,
+            "chars": [
+                "\uf003"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "theafroofdoom:font/jevil_face.png",
+            "height": 100,
+            "ascent": 100,
+            "chars": [
+                "\uf000"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "theafroofdoom:font/jevil_face_shoot.png",
+            "height": 100,
+            "ascent": 100,
+            "chars": [
+                "\uf001"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "theafroofdoom:font/ascii.png",
+            "ascent": 7,
+            "chars": [
+                "\uf200\uf800"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "theafroofdoom:hostile/jevil/anatomy/body/teleport/arms_out",
+	"textures": {
+		"texture": "theafroofdoom:entity/hostile/jevil/palette"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -1, 8],
+			"scale": [2.8, 2.8, 2.8]
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+    "credits.intro.0": "THE WORLD REVOLVING",
+    "credits.intro.1": "TheAfroOfDoom",
+    
+    "credits.general.aidan": "aiTan",
+    "credits.general.vdvman": "vdvman1",
+    "credits.general.jim": "tentacles",
+    "credits.general.tobyfox": "Toby Fox",
+    "credits.general.tobyfox.subtitle": "DELTARUNE",
+
+    "credits.resources.mcc": "/r/MCC Discord",
+    "credits.resources.mcphi": "Minecraft Phi",
+    "credits.resources.skylinerw": "skylinerw's Text Comps.",
+    "credits.resources.wiki": "Minecraft Wiki",
+    "credits.resources.wiki.subtitle": "",
+
+    "credits.tools.audacity": "Audacity",
+    "credits.tools.model": "Blockbench",
+    "credits.tools.paintnet": "paint.net",
+    "credits.tools.vscode": "Visual Studio Code",
+
+    "credits.translators.jerry": "Jerry",
+    "credits.translators.jerry.subtitle": "Chinese",
+
+    "credits.testers.0": "chespie, Dman",
+    "credits.testers.1": "Kombo, Krawi",
+    "credits.testers.2": "Lameat, Lukie",
+    "credits.testers.3": "Strangey, Stroodel",
+    "credits.testers.4": "TheMadHouse, Watertoad",
+
+    "item.healing.choco_diamond.heal_amount": "+3 %s",
+    "item.healing.dark_candy.heal_amount": "+5 %s",
+    "item.healing.lancer_cookie.heal_amount": "+4 %s",
+    "item.healing.rouxls_roux.heal_amount": "+4 %s",
+
+    "jevil.name": "JEVIL",
+
+    "ui.magic.heal_prayer.heal_amount": "+4 %s"
+}

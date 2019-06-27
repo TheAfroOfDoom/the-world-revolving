@@ -1,0 +1,67 @@
+{
+
+    "parent": "item/handheld",
+	
+    "textures": {
+
+        "layer0": "item/golden_pickaxe"
+		
+    },
+	
+	"overrides": [
+		
+        { "predicate": {"custom_model_data": 1  }, "model": "theafroofdoom:miscellaneous/highlighter"},
+
+        { "predicate": {"custom_model_data": 2  }, "model": "theafroofdoom:miscellaneous/diamond_portrait"},
+        { "predicate": {"custom_model_data": 3  }, "model": "theafroofdoom:miscellaneous/heart_portrait"},
+        { "predicate": {"custom_model_data": 4  }, "model": "theafroofdoom:miscellaneous/lancer_portrait"},
+        { "predicate": {"custom_model_data": 5  }, "model": "theafroofdoom:miscellaneous/spade_portrait"},
+
+        { "predicate": {"custom_model_data": 6  }, "model": "theafroofdoom:decorative/theafroofdoom"},
+
+        { "predicate": {"custom_model_data": 7  }, "model": "theafroofdoom:miscellaneous/explosion_column/0"},
+        { "predicate": {"custom_model_data": 8  }, "model": "theafroofdoom:miscellaneous/explosion_column/1"},
+        { "predicate": {"custom_model_data": 9  }, "model": "theafroofdoom:miscellaneous/explosion_column/2"},
+        { "predicate": {"custom_model_data": 10 }, "model": "theafroofdoom:miscellaneous/explosion_column/3"},
+        { "predicate": {"custom_model_data": 11 }, "model": "theafroofdoom:miscellaneous/explosion_column/4"},
+        { "predicate": {"custom_model_data": 12 }, "model": "theafroofdoom:miscellaneous/explosion_column/5"},
+        { "predicate": {"custom_model_data": 13 }, "model": "theafroofdoom:miscellaneous/explosion_column/6"},
+
+        { "predicate": {"custom_model_data": 14 }, "model": "theafroofdoom:miscellaneous/explosion_column/flipped/0"},
+        { "predicate": {"custom_model_data": 15 }, "model": "theafroofdoom:miscellaneous/explosion_column/flipped/1"},
+        { "predicate": {"custom_model_data": 16 }, "model": "theafroofdoom:miscellaneous/explosion_column/flipped/2"},
+        { "predicate": {"custom_model_data": 17 }, "model": "theafroofdoom:miscellaneous/explosion_column/flipped/3"},
+        { "predicate": {"custom_model_data": 18 }, "model": "theafroofdoom:miscellaneous/explosion_column/flipped/4"},
+        { "predicate": {"custom_model_data": 19 }, "model": "theafroofdoom:miscellaneous/explosion_column/flipped/5"},
+        { "predicate": {"custom_model_data": 20 }, "model": "theafroofdoom:miscellaneous/explosion_column/flipped/6"},
+
+        { "predicate": {"custom_model_data": 21 }, "model": "theafroofdoom:miscellaneous/prop/devilsknife"},
+
+        { "predicate": {"custom_model_data": 22 }, "model": "theafroofdoom:miscellaneous/rude_buster"},
+
+        { "predicate": {"custom_model_data": 23 }, "model": "theafroofdoom:miscellaneous/prop/training_dummy"},
+
+        { "predicate": {"custom_model_data": 24 }, "model": "theafroofdoom:miscellaneous/prop/fight_animation/head"},
+        { "predicate": {"custom_model_data": 25 }, "model": "theafroofdoom:miscellaneous/prop/fight_animation/arm"},
+
+        { "predicate": {"custom_model_data": 26 }, "model": "theafroofdoom:miscellaneous/prop/heartbreak/base"},
+        { "predicate": {"custom_model_data": 27 }, "model": "theafroofdoom:miscellaneous/prop/heartbreak/snap"},
+
+        { "predicate": {"custom_model_data": 28 }, "model": "theafroofdoom:miscellaneous/club_portrait"},
+
+        { "predicate": {"custom_model_data": 29 }, "model": "theafroofdoom:decorative/aitan"},
+        { "predicate": {"custom_model_data": 30 }, "model": "theafroofdoom:decorative/tentacles"},
+        { "predicate": {"custom_model_data": 31 }, "model": "theafroofdoom:decorative/vdvman1"},
+
+        { "predicate": {"custom_model_data": 32 }, "model": "theafroofdoom:decorative/playtester/chespie"},
+        { "predicate": {"custom_model_data": 33 }, "model": "theafroofdoom:decorative/playtester/dman"},
+        { "predicate": {"custom_model_data": 34 }, "model": "theafroofdoom:decorative/playtester/kombo"},
+        { "predicate": {"custom_model_data": 35 }, "model": "theafroofdoom:decorative/playtester/krawi"},
+        { "predicate": {"custom_model_data": 36 }, "model": "theafroofdoom:decorative/playtester/lameat"},
+        { "predicate": {"custom_model_data": 37 }, "model": "theafroofdoom:decorative/playtester/lukie"},
+        { "predicate": {"custom_model_data": 38 }, "model": "theafroofdoom:decorative/playtester/strangey"},
+        { "predicate": {"custom_model_data": 39 }, "model": "theafroofdoom:decorative/playtester/stroodel"},
+        { "predicate": {"custom_model_data": 40 }, "model": "theafroofdoom:decorative/playtester/themadhouse"},
+        { "predicate": {"custom_model_data": 41 }, "model": "theafroofdoom:decorative/playtester/watertoad"}
+	]
+}

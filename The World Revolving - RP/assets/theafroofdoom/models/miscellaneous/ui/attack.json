@@ -1,0 +1,7 @@
+{
+    "parent": "theafroofdoom:miscellaneous/ui",
+
+    "textures": {
+        "layer0": "theafroofdoom:miscellaneous/ui/attack"
+    }
+}

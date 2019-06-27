@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Dewisiadau...",
+    "options.chunks": "\u00a7e%s\u00a76 darn",
+    "options.clouds.fancy": "\u00a7cFfansi",
+    "options.clouds.fast": "\u00a7cBron",
+    "options.difficulty": "\u00a76Anhawster\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cHeddychlon",
+    "options.gamma": "\u00a76Disgleirdeb (Disglair)\u00a7c",
+    "options.gamma.max": "\u00a7aDisglair",
+    "options.mipmapLevels": "\u00a76Lefelau Mipmap (Na)\u00a7e",
+    "options.renderClouds": "\u00a76Cymylau (Na)\u00a7a",
+    "options.renderDistance": "\u00a76Pellter Rendro (7+)",
+    "options.video": "\u00a76Gosodiadau Fideo..."
+}

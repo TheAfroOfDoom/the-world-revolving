@@ -1,0 +1,7 @@
+{
+    "credit": "Made with Blockbench",
+	"parent": "theafroofdoom:hostile/jevil/anatomy/jumping/0",
+    "textures": {
+        "texture": "theafroofdoom:entity/hostile/jevil/jumping/3"
+    }
+}

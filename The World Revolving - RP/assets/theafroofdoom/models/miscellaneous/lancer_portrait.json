@@ -1,0 +1,6 @@
+{
+	"parent": "theafroofdoom:miscellaneous/portrait",
+	"textures": {
+		"texture": "theafroofdoom:miscellaneous/lancer_portrait"
+	}
+}

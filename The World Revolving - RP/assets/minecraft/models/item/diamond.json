@@ -1,0 +1,38 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond"
+    },
+	
+	"overrides": [
+		
+        { "predicate": {"custom_model_data": 1  }, "model": "theafroofdoom:item/consumable/disabled/choco_diamond"},
+        { "predicate": {"custom_model_data": 2  }, "model": "theafroofdoom:item/consumable/disabled/clubs_sandwich"},
+        { "predicate": {"custom_model_data": 3  }, "model": "theafroofdoom:item/consumable/disabled/dark_candy"},
+        { "predicate": {"custom_model_data": 4  }, "model": "theafroofdoom:item/consumable/disabled/lancer_cookie"},
+        { "predicate": {"custom_model_data": 5  }, "model": "theafroofdoom:item/consumable/disabled/rouxls_roux"},
+        { "predicate": {"custom_model_data": 6  }, "model": "theafroofdoom:item/consumable/disabled/top_cake"},
+        
+        { "predicate": {"custom_model_data": 7  }, "model": "theafroofdoom:miscellaneous/ui/disabled/act"},
+        { "predicate": {"custom_model_data": 8  }, "model": "theafroofdoom:miscellaneous/ui/disabled/act/check"},
+        { "predicate": {"custom_model_data": 9  }, "model": "theafroofdoom:miscellaneous/ui/disabled/act/hypnosis"},
+        { "predicate": {"custom_model_data": 10 }, "model": "theafroofdoom:miscellaneous/ui/disabled/act/pirouette"},
+
+        { "predicate": {"custom_model_data": 11 }, "model": "theafroofdoom:miscellaneous/ui/disabled/attack"},
+
+        { "predicate": {"custom_model_data": 12 }, "model": "theafroofdoom:miscellaneous/ui/disabled/defend"},
+
+        { "predicate": {"custom_model_data": 13 }, "model": "theafroofdoom:miscellaneous/ui/disabled/items"},
+
+        { "predicate": {"custom_model_data": 14 }, "model": "theafroofdoom:miscellaneous/ui/disabled/magic"},
+        { "predicate": {"custom_model_data": 15 }, "model": "theafroofdoom:miscellaneous/ui/disabled/magic/heal_prayer"},
+        { "predicate": {"custom_model_data": 16 }, "model": "theafroofdoom:miscellaneous/ui/disabled/magic/pacify"},
+        { "predicate": {"custom_model_data": 17 }, "model": "theafroofdoom:miscellaneous/ui/disabled/magic/rude_buster"},
+
+        { "predicate": {"custom_model_data": 18 }, "model": "theafroofdoom:miscellaneous/ui/disabled/spare"},
+
+        { "predicate": {"custom_model_data": 19 }, "model": "theafroofdoom:item/tool/disabled/kris_sword"},
+
+        { "predicate": {"custom_model_data": 20 }, "model": "theafroofdoom:miscellaneous/ui/disabled/skip"}
+	]
+}

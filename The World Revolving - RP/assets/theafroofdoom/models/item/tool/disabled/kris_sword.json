@@ -1,0 +1,7 @@
+{
+    "parent": "theafroofdoom:item/tool/kris_sword",
+
+    "textures": {
+        "layer0": "theafroofdoom:item/tool/disabled/kris_sword"
+    }
+}

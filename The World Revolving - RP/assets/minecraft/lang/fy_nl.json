@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Opsjes\u2026",
+    "options.chunks": "\u00a7e%s\u00a76 chunks",
+    "options.clouds.fancy": "\u00a7cKreas",
+    "options.clouds.fast": "\u00a7cFluch",
+    "options.difficulty": "\u00a76Nivo\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cFredich",
+    "options.gamma": "\u00a76Helderheid (Helder)\u00a7c",
+    "options.gamma.max": "\u00a7aHelder",
+    "options.mipmapLevels": "\u00a76Mipmap-nivo's (\u00daT)\u00a7e",
+    "options.renderClouds": "\u00a76Wolken (\u00daT)\u00a7a",
+    "options.renderDistance": "\u00a76Render\u00f4fst\u00e2n (7+)",
+    "options.video": "\u00a76Grafyske ynstellingen\u2026"
+}

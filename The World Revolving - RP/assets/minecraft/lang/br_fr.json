@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Dibarzhio\u00f9...",
+    "options.chunks": "\u00a7e%s\u00a76 a droc'hado\u00f9",
+    "options.clouds.fancy": "\u00a7cKoant",
+    "options.clouds.fast": "\u00a7cBuan",
+    "options.difficulty": "\u00a76Diaester\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPeoc'hus",
+    "options.gamma": "\u00a76Lintr (Sklaer)\u00a7c",
+    "options.gamma.max": "\u00a7aSklaer",
+    "options.mipmapLevels": "\u00a76Liveo\u00f9 ar gartennig (KET)\u00a7e",
+    "options.renderClouds": "\u00a76Koumoul (KET)\u00a7a",
+    "options.renderDistance": "\u00a76Pellder deouezi\u00f1 (7+)",
+    "options.video": "\u00a76Arventenno\u00f9 video..."
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "theafroofdoom:hostile/jevil/attacks/devilsknife/base",
+	"display": {
+		"head": {
+			"rotation": [0, -90, -90],
+			"scale": [3, 3, 3]
+		}
+	}
+}

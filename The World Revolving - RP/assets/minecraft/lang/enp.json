@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Chires...",
+    "options.chunks": "\u00a7e%s\u00a76 chunks",
+    "options.clouds.fancy": "\u00a7cShowy",
+    "options.clouds.fast": "\u00a7cFast",
+    "options.difficulty": "\u00a76Toughness\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cFrithsome",
+    "options.gamma": "\u00a76Brightness (Bright)\u00a7c",
+    "options.gamma.max": "\u00a7aBright",
+    "options.mipmapLevels": "\u00a76Mipmap Meaths (OFF)\u00a7e",
+    "options.renderClouds": "\u00a76Clouds (OFF)\u00a7a",
+    "options.renderDistance": "\u00a76Draw Farness (7+)",
+    "options.video": "\u00a76Filmlike Settings..."
+}

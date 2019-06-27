@@ -1,0 +1,12 @@
+{
+    "parent": "theafroofdoom:miscellaneous/ui",
+
+    "display": {
+
+        "firstperson_righthand": {
+            "rotation": [ -10, -30, 0 ],
+            "translation": [ -1.25, 5.25, 1.13],
+            "scale": [ 0.45, 0.45, 0.45 ]
+        }
+    }
+}

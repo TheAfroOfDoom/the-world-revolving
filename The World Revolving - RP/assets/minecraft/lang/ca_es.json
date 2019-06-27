@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Opcions...",
+    "options.chunks": "\u00a7e%s\u00a76 chunks",
+    "options.clouds.fancy": "\u00a7cDetallats",
+    "options.clouds.fast": "\u00a7cR\u00e0pids",
+    "options.difficulty": "\u00a76Dificultat\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPac\u00edfica",
+    "options.gamma": "\u00a76Il\u00b7luminaci\u00f3 (Brillant)\u00a7c",
+    "options.gamma.max": "\u00a7aBrillant",
+    "options.mipmapLevels": "\u00a76Nivell de minimaping (OFF)\u00a7e",
+    "options.renderClouds": "\u00a76N\u00favols (OFF)\u00a7a",
+    "options.renderDistance": "\u00a76Renderitzat (7+)",
+    "options.video": "\u00a76Configuraci\u00f3 de v\u00eddeo..."
+}

@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "theafroofdoom:miscellaneous/explosion_column/5",
+	"display": {
+		"head": {
+			"rotation": [135, 0, 0],
+			"translation": [0, 0, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

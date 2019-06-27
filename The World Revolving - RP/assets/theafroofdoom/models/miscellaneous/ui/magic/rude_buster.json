@@ -1,0 +1,7 @@
+{
+    "parent": "theafroofdoom:miscellaneous/sub_ui",
+
+    "textures": {
+        "layer0": "theafroofdoom:miscellaneous/ui/magic/rude_buster"
+    }
+}

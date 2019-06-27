@@ -1,0 +1,33 @@
+General:
+aiTan (General motivation and advice)
+vdvman1 (Reliable debugging help)
+tentacles (Physics things)
+Toby Fox (Deltarune)
+
+/r/MCC Discord (https://discord.gg/QAFXFtZ)
+Minecraft Phi (https://github.com/MinecraftPhi/MinecraftPhi-modules)
+Minecraft Wiki (https://minecraft.gamepedia.com/Minecraft_Wiki)
+skylinerw's Text Component guide (https://github.com/skylinerw/guides/blob/master/java/text%20component.md)
+
+Tools:
+Audacity        - Audio Editing
+Blockbench      - Modelling
+paint.net       - Image Editing
+VS Code         - Coding
+
+Testers:
+chespie, Dman, Kombo, Krawi, Lameat, Lukie,
+Strangey, Stroodel, TheMadHouse, Watertoad
+
+Song used in Trailer:
+https://www.youtube.com/watch?v=f_eJ_0JMt7c
+
+Skins used in Trailer:
+https://www.minecraftskins.com/skin/12978284/kris-deltarune/
+https://www.planetminecraft.com/skin/susie-deltarune-4277170/
+https://www.planetminecraft.com/skin/deltarune-ralsei-4219201/
+
+Skins used for player models:
+Dman  - https://www.minecraftskins.com/skin/10495243/zenyatta---overwatch/
+Kombo - https://www.minecraftskins.com/skin/12448613/ana/
+Lukie - https://www.planetminecraft.com/skin/overwatch-reinhardt/

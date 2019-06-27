@@ -1,0 +1,21 @@
+{
+    "parent": "block/template_glazed_terracotta",
+    "textures": {
+        "particle": "theafroofdoom:block/lobby/edge",
+        "pattern": "theafroofdoom:block/lobby/edge",
+        "black": "theafroofdoom:black"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0,  0, 16, 16 ], "texture": "#black", "cullface": "down" },
+                "up":    { "uv": [ 0,  0, 16, 16 ], "texture": "#black", "cullface": "up" },
+                "north": { "uv": [ 0,  0, 16, 16 ], "texture": "#pattern", "cullface": "north", "rotation": 0 },
+                "south": { "uv": [ 0,  0, 16, 16 ], "texture": "#black", "cullface": "south" },
+                "west":  { "uv": [ 0,  0, 16, 16 ], "texture": "#pattern", "cullface": "west", "rotation": 180 },
+                "east":  { "uv": [ 16, 0, 0,  16 ], "texture": "#black", "cullface": "east"}
+            }
+        }
+    ]
+}

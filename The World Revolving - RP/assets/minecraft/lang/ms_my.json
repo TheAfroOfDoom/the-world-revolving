@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Tetapan...",
+    "options.chunks": "\u00a7e%s\u00a76 cebisan",
+    "options.clouds.fancy": "\u00a7cMewah",
+    "options.clouds.fast": "\u00a7cPantas",
+    "options.difficulty": "\u00a76Kesukaran\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cAman",
+    "options.gamma": "\u00a76Keterangan (Terang)\u00a7c",
+    "options.gamma.max": "\u00a7aTerang",
+    "options.mipmapLevels": "\u00a76Aras Mipmap (TUTUP)\u00a7e",
+    "options.renderClouds": "\u00a76Awan (TUTUP)\u00a7a",
+    "options.renderDistance": "\u00a76Jarak Pengemukaan (7+)",
+    "options.video": "\u00a76Tetapan Video..."
+}

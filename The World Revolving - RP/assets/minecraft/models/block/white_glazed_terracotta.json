@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_glazed_terracotta",
+    "textures": {
+        "particle": "theafroofdoom:block/prison/floor/corner",
+        "pattern": "theafroofdoom:block/prison/floor/corner"
+    }
+}

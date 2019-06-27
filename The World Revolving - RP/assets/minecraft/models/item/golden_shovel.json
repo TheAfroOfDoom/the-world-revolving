@@ -1,0 +1,45 @@
+{
+
+    "parent": "item/handheld",
+	
+    "textures": {
+	
+        "layer0": "item/golden_shovel"
+		
+    },
+	
+	"overrides": [
+       
+        { "predicate": {"custom_model_data": 1 }, "model": "theafroofdoom:hostile/jevil/anatomy/body/base"},
+        { "predicate": {"custom_model_data": 2 }, "model": "theafroofdoom:hostile/jevil/anatomy/body/teleport/arms_in"},
+        { "predicate": {"custom_model_data": 3 }, "model": "theafroofdoom:hostile/jevil/anatomy/body/teleport/arms_in_headless"},
+        { "predicate": {"custom_model_data": 4 }, "model": "theafroofdoom:hostile/jevil/anatomy/body/teleport/arms_out"},
+        { "predicate": {"custom_model_data": 5 }, "model": "theafroofdoom:hostile/jevil/anatomy/body/teleport/arms_out_headless"},
+
+        { "predicate": {"custom_model_data": 6 }, "model": "theafroofdoom:hostile/jevil/anatomy/full"},
+
+        { "predicate": {"custom_model_data": 7 }, "model": "theafroofdoom:hostile/jevil/anatomy/head/base"},
+        { "predicate": {"custom_model_data": 8 }, "model": "theafroofdoom:hostile/jevil/anatomy/head/laughing"},
+        { "predicate": {"custom_model_data": 9 }, "model": "theafroofdoom:hostile/jevil/anatomy/head/tired"},
+
+        { "predicate": {"custom_model_data": 10 }, "model": "theafroofdoom:hostile/jevil/anatomy/jumping/0"},
+        { "predicate": {"custom_model_data": 11 }, "model": "theafroofdoom:hostile/jevil/anatomy/jumping/1"},
+        { "predicate": {"custom_model_data": 12 }, "model": "theafroofdoom:hostile/jevil/anatomy/jumping/2"},
+        { "predicate": {"custom_model_data": 13 }, "model": "theafroofdoom:hostile/jevil/anatomy/jumping/3"},
+        { "predicate": {"custom_model_data": 14 }, "model": "theafroofdoom:hostile/jevil/anatomy/jumping/4"},
+
+        { "predicate": {"custom_model_data": 15 }, "model": "theafroofdoom:hostile/jevil/anatomy/tired"},
+
+        { "predicate": {"custom_model_data": 16 }, "model": "theafroofdoom:hostile/jevil/anatomy/hurt/0"},
+        { "predicate": {"custom_model_data": 17 }, "model": "theafroofdoom:hostile/jevil/anatomy/hurt/1"},
+        { "predicate": {"custom_model_data": 18 }, "model": "theafroofdoom:hostile/jevil/anatomy/hurt/2"},
+        
+        { "predicate": {"custom_model_data": 19 }, "model": "theafroofdoom:hostile/jevil/anatomy/laughing/fast"},
+        { "predicate": {"custom_model_data": 20 }, "model": "theafroofdoom:hostile/jevil/anatomy/laughing/slow"},
+
+        { "predicate": {"custom_model_data": 21 }, "model": "theafroofdoom:hostile/jevil/anatomy/end"},
+        { "predicate": {"custom_model_data": 22 }, "model": "theafroofdoom:hostile/jevil/anatomy/fading"}
+        		
+	]
+	
+}

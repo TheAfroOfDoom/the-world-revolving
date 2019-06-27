@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/tropical_fish"
+    },
+	
+	"overrides": [
+		
+		{ "predicate": {"custom_model_data": 1 }, "model": "theafroofdoom:item/consumable/dark_candy"}		
+	]
+}

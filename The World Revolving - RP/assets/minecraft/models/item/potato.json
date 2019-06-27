@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potato"
+    },
+	
+	"overrides": [
+		
+        { "predicate": {"custom_model_data": 1 }, "model": "theafroofdoom:item/consumable/lancer_cookie"},
+        { "predicate": {"custom_model_data": 2 }, "model": "theafroofdoom:item/consumable/rouxls_roux"}
+	]
+}

@@ -1,0 +1,33 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+	
+	"overrides": [
+		
+        { "predicate": {"custom_model_data": 1  }, "model": "theafroofdoom:miscellaneous/ui/selected/act"},
+        { "predicate": {"custom_model_data": 2  }, "model": "theafroofdoom:miscellaneous/ui/selected/act/check"},
+        { "predicate": {"custom_model_data": 3  }, "model": "theafroofdoom:miscellaneous/ui/selected/act/hypnosis"},
+        { "predicate": {"custom_model_data": 4  }, "model": "theafroofdoom:miscellaneous/ui/selected/act/pirouette"},
+
+        { "predicate": {"custom_model_data": 5  }, "model": "theafroofdoom:miscellaneous/ui/selected/attack"},
+
+        { "predicate": {"custom_model_data": 6  }, "model": "theafroofdoom:miscellaneous/ui/selected/defend"},
+
+        { "predicate": {"custom_model_data": 7  }, "model": "theafroofdoom:miscellaneous/ui/selected/items"},
+
+        { "predicate": {"custom_model_data": 8  }, "model": "theafroofdoom:miscellaneous/ui/selected/magic"},
+        { "predicate": {"custom_model_data": 9  }, "model": "theafroofdoom:miscellaneous/ui/selected/magic/heal_prayer"},
+        { "predicate": {"custom_model_data": 10 }, "model": "theafroofdoom:miscellaneous/ui/selected/magic/pacify"},
+        { "predicate": {"custom_model_data": 11 }, "model": "theafroofdoom:miscellaneous/ui/selected/magic/rude_buster"},
+
+        { "predicate": {"custom_model_data": 12 }, "model": "theafroofdoom:miscellaneous/ui/selected/spare"},
+
+        { "predicate": {"custom_model_data": 13 }, "model": "theafroofdoom:miscellaneous/ui/quit"},
+        { "predicate": {"custom_model_data": 14 }, "model": "theafroofdoom:miscellaneous/ui/quit/health"},
+        { "predicate": {"custom_model_data": 15 }, "model": "theafroofdoom:miscellaneous/ui/quit/quit"},
+
+        { "predicate": {"custom_model_data": 16 }, "model": "theafroofdoom:miscellaneous/ui/selected/skip"}
+    ]
+}

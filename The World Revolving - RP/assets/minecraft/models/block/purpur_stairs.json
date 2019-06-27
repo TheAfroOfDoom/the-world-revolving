@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "block/purpur_block",
+        "top": "theafroofdoom:block/prison/floor/base",
+        "side": "theafroofdoom:block/prison/floor/edge"
+    }
+}

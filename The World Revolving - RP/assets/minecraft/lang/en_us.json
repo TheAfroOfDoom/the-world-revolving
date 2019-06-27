@@ -1,0 +1,25 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+
+    "menu.options": "§6Options...",
+
+    "options.chunks": "§e%s§6",
+    
+    "options.clouds.fancy": "§cFancy",
+    "options.clouds.fast": "§cFast",
+
+    "options.difficulty": "§6Difficulty§a",
+    "options.difficulty.peaceful": "§cPeaceful",
+
+    "options.gamma": "§6Brightness (Bright)§c",
+    "options.gamma.max": "§aBright",
+
+    "options.mipmapLevels": "§6Mipmap Levels (OFF)§e",
+
+    "options.renderClouds": "§6Clouds (OFF)§a",
+
+    "options.renderDistance": "§6Render Distance (7+)",
+
+    "options.video": "§6Video Settings..."
+
+}

@@ -1,0 +1,25 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "theafroofdoom:block/prison/floor/base",
+        "down": "theafroofdoom:block/prison/floor/base",
+        "up": "theafroofdoom:block/prison/floor/edge_4",
+        "north": "theafroofdoom:block/prison/floor/base",
+        "east": "theafroofdoom:block/prison/floor/base",
+        "south": "theafroofdoom:block/prison/floor/base",
+        "west": "theafroofdoom:block/prison/floor/base"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [0, 0, 16, 16], "texture": "#down", "rotation": 0, "cullface": "down" },
+                "up":  { "uv": [0, 0, 16, 16], "texture": "#up", "rotation": 90, "cullface": "up" },
+                "north":  { "uv": [0, 0, 16, 16], "texture": "#north", "rotation": 0, "cullface": "north" },
+                "west":  { "uv": [0, 0, 16, 16], "texture": "#west", "rotation": 0, "cullface": "west" },
+                "east":  { "uv": [0, 0, 16, 16], "texture": "#east", "rotation": 0, "cullface": "east" },
+                "south":  { "uv": [0, 0, 16, 16], "texture": "#south", "rotation": 0, "cullface": "south" }
+            }
+        }
+    ]
+}

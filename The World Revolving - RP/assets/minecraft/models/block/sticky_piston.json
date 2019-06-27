@@ -1,0 +1,8 @@
+{
+    "parent": "block/template_piston",
+    "textures": {
+        "bottom": "theafroofdoom:black",
+        "side": "theafroofdoom:block/lobby/royal_flush_side",
+        "platform": "theafroofdoom:black"
+    }
+}

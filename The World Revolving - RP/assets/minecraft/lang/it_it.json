@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Opzioni...",
+    "options.chunks": "\u00a7e%s\u00a76 chunk",
+    "options.clouds.fancy": "\u00a7cSofisticate",
+    "options.clouds.fast": "\u00a7cSemplici",
+    "options.difficulty": "\u00a76Difficolt\u00e0\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPacifica",
+    "options.gamma": "\u00a76Luminosit\u00e0 (Brillante)\u00a7c",
+    "options.gamma.max": "\u00a7aBrillante",
+    "options.mipmapLevels": "\u00a76Livello di mipmap (No)\u00a7e",
+    "options.renderClouds": "\u00a76Nuvole (No)\u00a7a",
+    "options.renderDistance": "\u00a76Distanza di resa (7+)",
+    "options.video": "\u00a76Grafica..."
+}

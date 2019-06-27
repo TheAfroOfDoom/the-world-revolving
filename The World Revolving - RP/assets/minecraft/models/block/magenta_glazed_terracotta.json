@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_glazed_terracotta",
+    "textures": {
+        "particle": "theafroofdoom:block/elevator/corner",
+        "pattern": "theafroofdoom:block/elevator/corner"
+    }
+}

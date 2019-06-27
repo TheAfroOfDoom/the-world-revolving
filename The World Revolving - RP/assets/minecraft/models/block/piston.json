@@ -1,0 +1,8 @@
+{
+    "parent": "block/template_piston",
+    "textures": {
+        "bottom": "theafroofdoom:black",
+        "side": "theafroofdoom:block/lobby/diamond_door_side",
+        "platform": "theafroofdoom:black"
+    }
+}

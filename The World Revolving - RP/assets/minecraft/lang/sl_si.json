@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Mo\u017enosti...",
+    "options.chunks": "\u00a7e%s\u00a76 kosov",
+    "options.clouds.fancy": "\u00a7cPrelepo",
+    "options.clouds.fast": "\u00a7cHitro",
+    "options.difficulty": "\u00a76Te\u017eavnost\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cMiroljubna",
+    "options.gamma": "\u00a76Svetlost (Svetlo)\u00a7c",
+    "options.gamma.max": "\u00a7aSvetlo",
+    "options.mipmapLevels": "\u00a76Raven Mipmap (NE)\u00a7e",
+    "options.renderClouds": "\u00a76Oblaki (NE)\u00a7a",
+    "options.renderDistance": "\u00a76Razdalja izrisa (7+)",
+    "options.video": "\u00a76Video nastavitve..."
+}

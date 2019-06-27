@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "theafroofdoom:hostile/jevil/anatomy/full",
+	"textures": {
+		"texture": "theafroofdoom:entity/hostile/jevil/fading"
+	}
+}

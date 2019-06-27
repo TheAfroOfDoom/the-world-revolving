@@ -1,0 +1,455 @@
+{
+  "battle.start": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/weaponpull_fast"
+      }
+    ]
+  },
+
+  "elevator": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:miscellaneous/screenshake"
+      }
+    ]
+  },
+
+  "jevil.attack.bomb": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/bomb"
+      }
+    ]
+  },
+
+  "jevil.attack.cutscene.final_chaos.explosion": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/scytheburst"
+      }
+    ]
+  },
+
+  "jevil.attack.cutscene.final_chaos.rumble": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/rumble"
+      }
+    ]
+  },
+
+  "jevil.attack.devilsknife.clash": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/swing"
+      }
+    ]
+  },
+
+  "jevil.attack.devilsknife.red.summon": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/spear_appear"
+      }
+    ]
+  },
+
+  "jevil.attack.recover": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/spear_appear"
+      }
+    ]
+  },
+ 
+  "jevil.attack.vanish": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/spear_appear"
+      }
+    ]
+  },
+
+  "jevil.attack.shoot.shoot": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/oh"
+      }
+    ]
+  },
+ 
+  "jevil.attack.shoot.warp.in": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/swing"
+      }
+    ]
+  },
+ 
+  "jevil.attack.shoot.warp.out": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/swing",
+        "volume": 0.25
+      }
+    ]
+  },
+
+  "jevil.hurt": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/ha_0"
+      },
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/ha_1"
+      },
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/laugh_0"
+      }
+    ]
+  },
+
+  "jevil.intro.devilsknife": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/criticalswing"
+      }
+    ]
+  },
+
+  "jevil.speak.0.048": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/speak/0.048"
+      }
+    ]
+  },
+
+  "jevil.speak.0.253": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/speak/0.253"
+      }
+    ]
+  },
+
+  "jevil.voiceline.anything": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/anything"
+      }
+    ]
+  },
+
+  "jevil.voiceline.byebye": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/byebye"
+      }
+    ]
+  },
+
+  "jevil.voiceline.chaos": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/chaos"
+      }
+    ]
+  },
+
+  "jevil.voiceline.ha.0": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/ha_0"
+      }
+    ]
+  },
+
+  "jevil.voiceline.ha.1": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/ha_1"
+      }
+    ]
+  },
+
+  "jevil.voiceline.laugh.0": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/laugh_0"
+      }
+    ]
+  },
+
+  "jevil.voiceline.laugh.1": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/laugh_1"
+      }
+    ]
+  },
+
+  "jevil.voiceline.laugh.long": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/laugh_long"
+      }
+    ]
+  },
+
+  "jevil.voiceline.metamorphosis": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/metamorphosis"
+      }
+    ]
+  },
+
+  "jevil.voiceline.neochaos": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/neochaos"
+      }
+    ]
+  },
+
+  "jevil.voiceline.oh": {
+    "sounds": [
+      {
+        "name":"theafroofdoom:entity/hostile/jevil/oh"
+      }
+    ]
+  },
+ 
+  "music.april_2012": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:music/april_2012",
+        "stream": true
+      }
+    ]
+  },
+ 
+  "music.card_castle": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:music/card_castle",
+        "stream": true
+      }
+    ]
+  },
+ 
+  "music.hip_shop": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:music/hip_shop",
+        "stream": true
+      }
+    ]
+  },
+ 
+  "music.rude_buster": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:music/rude_buster",
+        "stream": true
+      }
+    ]
+  },
+ 
+  "music.the_circus": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:music/the_circus",
+        "stream": true
+      }
+    ]
+  },
+ 
+  "music.the_world_revolving": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:music/the_world_revolving",
+        "stream": true
+      }
+    ]
+  },
+ 
+  "player.death.break": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/break1"
+      }
+    ]
+  },
+ 
+  "player.death.explode": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/break2"
+      }
+    ]
+  },
+ 
+  "player.do.act.hypnosis": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/hypnosis"
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/pirouette"
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette.0": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:miscellaneous/badexplosion"
+      },
+      {
+        "name": "theafroofdoom:miscellaneous/carhonk"
+      },
+      {
+        "name": "theafroofdoom:miscellaneous/toilet"
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette.1": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:miscellaneous/weirdeffect"
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette.2": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:miscellaneous/awkward"
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette.3": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:miscellaneous/shadowpendant"
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette.4": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:miscellaneous/birdtweet"
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette.5": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/power",
+        "volume": 0.25
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette.6": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:miscellaneous/weirdeffect"
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette.7": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:miscellaneous/boost"
+      }
+    ]
+  },
+ 
+  "player.do.act.pirouette.8": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:miscellaneous/applause"
+      }
+    ]
+  },
+ 
+ 
+  "player.do.item.heal": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/power",
+        "volume": 0.25
+      }
+    ]
+  },
+ 
+  "player.do.magic.heal_prayer": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/power"
+      }
+    ]
+  },
+ 
+  "player.do.magic.pacify": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/spare"
+      }
+    ]
+  },
+ 
+  "player.do.magic.rude_buster.hit": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/rudebuster_hit"
+      }
+    ]
+  },
+ 
+  "player.do.magic.rude_buster.swing": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/rudebuster_swing"
+      }
+    ]
+  },
+ 
+  "player.graze": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/graze"
+      }
+    ]
+  },
+ 
+  "player.swipe": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:entity/player/laz_c"
+      }
+    ]
+  },
+ 
+  "player.ui.select": {
+    "sounds": [
+      {
+        "name": "theafroofdoom:miscellaneous/ui/select"
+      }
+    ]
+  }
+}

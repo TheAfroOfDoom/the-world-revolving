@@ -1,0 +1,13 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76G\u0127a\u017cliet...",
+    "options.chunks": "\u00a7e%s\u00a76 bi\u010b\u010biet",
+    "options.difficulty": "\u00a76Diffikulta'\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPa\u010bifika",
+    "options.gamma": "\u00a76Lumino\u017cita' (Imdawwal)\u00a7c",
+    "options.gamma.max": "\u00a7aImdawwal",
+    "options.mipmapLevels": "\u00a76Livelli ta' Mipmap (LE)\u00a7e",
+    "options.renderClouds": "\u00a76S\u0127ab (LE)\u00a7a",
+    "options.renderDistance": "\u00a76Distanza Vi\u017cibbli (7+)",
+    "options.video": "\u00a76G\u0127a\u017cliet tal-Video..."
+}

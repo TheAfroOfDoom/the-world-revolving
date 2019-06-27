@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76\u00d4pcyje...",
+    "options.chunks": "\u00a7e%s\u00a76 chunk\u014dw",
+    "options.clouds.fancy": "\u00a7cSzwarne",
+    "options.clouds.fast": "\u00a7cGibkie",
+    "options.difficulty": "\u00a76Ciy\u0144szko\u015b\u0107\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPokojowy",
+    "options.gamma": "\u00a76Jasnota (Jasn\u014f)\u00a7c",
+    "options.gamma.max": "\u00a7aJasn\u014f",
+    "options.mipmapLevels": "\u00a76Pozi\u014dmy mipkart\u014dwani\u014f (Od\u0142.)\u00a7e",
+    "options.renderClouds": "\u00a76Chamery (Od\u0142.)\u00a7a",
+    "options.renderDistance": "\u00a76Zasiyng ryndyr\u014dwani\u014f (7+)",
+    "options.video": "\u00a76Nasztyl\u014fwni\u014f \u00f4br\u014fzu..."
+}

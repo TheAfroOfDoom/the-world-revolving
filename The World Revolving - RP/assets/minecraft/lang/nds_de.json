@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Instellungen...",
+    "options.chunks": "\u00a7e%s\u00a76 chunks",
+    "options.clouds.fancy": "\u00a7cMooi",
+    "options.clouds.fast": "\u00a7cSnell",
+    "options.difficulty": "\u00a76Sw\u00e4\u00f6rdegraod\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cFraidlik",
+    "options.gamma": "\u00a76Lechde (Lecht)\u00a7c",
+    "options.gamma.max": "\u00a7aLecht",
+    "options.mipmapLevels": "\u00a76Mipmap-Tr\u00e4tte (UUT)\u00a7e",
+    "options.renderClouds": "\u00a76Wulken (UUT)\u00a7a",
+    "options.renderDistance": "\u00a76Sichtwiedte (7+)",
+    "options.video": "\u00a76Grafikinstellungen..."
+}

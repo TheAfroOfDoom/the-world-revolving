@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Selekti...",
+    "options.chunks": "\u00a7e%s\u00a76 chunki",
+    "options.clouds.fancy": "\u00a7cDetali",
+    "options.clouds.fast": "\u00a7cRapida",
+    "options.difficulty": "\u00a76Desfacileso\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPacoza",
+    "options.gamma": "\u00a76Lumozeso (Brilanta)\u00a7c",
+    "options.gamma.max": "\u00a7aBrilanta",
+    "options.mipmapLevels": "\u00a76Niveli di mipmapo (No)\u00a7e",
+    "options.renderClouds": "\u00a76Nubi (No)\u00a7a",
+    "options.renderDistance": "\u00a76Disto di charjo (7+)",
+    "options.video": "\u00a76Selekti grafikala..."
+}

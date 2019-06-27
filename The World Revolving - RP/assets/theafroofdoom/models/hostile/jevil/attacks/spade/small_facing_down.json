@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by TheAfroOfDoom with Cubik Studio - https://cubik.studio",
+	"parent": "theafroofdoom:hostile/jevil/attacks/spade/small",
+	"display": {
+		"head": {
+			"rotation":  [ -90, 0, 0 ]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Op\u021biuni...",
+    "options.chunks": "\u00a7e%s\u00a76 chunkuri",
+    "options.clouds.fancy": "\u00a7cDetalia\u021bi",
+    "options.clouds.fast": "\u00a7cRapizi",
+    "options.difficulty": "\u00a76Dificultate\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPa\u0219nic",
+    "options.gamma": "\u00a76Luminozitate (Luminos)\u00a7c",
+    "options.gamma.max": "\u00a7aLuminos",
+    "options.mipmapLevels": "\u00a76Niveluri de mipmap (Nu)\u00a7e",
+    "options.renderClouds": "\u00a76Nori (Nu)\u00a7a",
+    "options.renderDistance": "\u00a76Distan\u021b\u0103 vizual\u0103 (7+)",
+    "options.video": "\u00a76Set\u0103ri video..."
+}

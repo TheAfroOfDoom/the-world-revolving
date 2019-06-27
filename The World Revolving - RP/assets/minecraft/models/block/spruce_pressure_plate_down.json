@@ -1,0 +1,19 @@
+{
+    "textures": {
+        "texture": "theafroofdoom:block/arena_floor",
+        "particle": "theafroofdoom:block/arena_floor"
+    },
+    "elements": [
+        {   "from": [ 1, 0, 1 ],
+            "to": [ 15, 0.5, 15 ],
+            "faces": {
+                "down":  { "uv": [ 8,  8, 16, 16 ], "texture": "#texture", "cullface": "down" },
+                "up":    { "uv": [ 8,  8, 16, 16 ], "texture": "#texture" },
+                "north": { "uv": [ 8,  8, 16, 16 ], "texture": "#texture" },
+                "south": { "uv": [ 8,  8, 16, 16 ], "texture": "#texture" },
+                "west":  { "uv": [ 8,  8, 16, 16 ], "texture": "#texture" },
+                "east":  { "uv": [ 8,  8, 16, 16 ], "texture": "#texture" }
+            }
+        }
+    ]
+}
