@@ -3,7 +3,7 @@ A full recreation of Jevil from Deltarune.  This repo includes all the assets an
 
 ![](https://media.giphy.com/media/mGPgoZ7bXPOwxmgF6k/giphy.gif)
 
-___
+===
 
 ### Files:
     - credits.txt: Credits for helpers and some assets.
