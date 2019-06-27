@@ -1,0 +1,9 @@
+scoreboard objectives add math_in dummy
+scoreboard objectives add math_in_w dummy
+scoreboard objectives add math_exp dummy
+scoreboard objectives add math_out dummy
+scoreboard objectives add math_k1 dummy
+scoreboard objectives add math_k2 dummy
+scoreboard objectives add math_k3 dummy
+scoreboard objectives add math_k4 dummy
+scoreboard objectives add math_maxrand dummy
