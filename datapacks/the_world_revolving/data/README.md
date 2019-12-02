@@ -15,7 +15,7 @@ Directions for Minecraft's built-in features on how to merge with the datapack.
 The core [Minecraft Phi](https://github.com/MinecraftPhi/MinecraftPhi-modules) datapack, required for all [Minecraft Phi] modules.
 
 ## phi.modifyinv
-Inventories.
+The [Minecraft Phi](https://github.com/MinecraftPhi/MinecraftPhi-modules) modules for editing player inventories.
 
 ## theafroofdoom
 Functions created by the author of the map, TheAfroOfDoom.
