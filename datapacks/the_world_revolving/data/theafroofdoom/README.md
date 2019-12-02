@@ -8,6 +8,6 @@
 ## functions
 Contains functions created by TheAfroOfDoom for the map.
 
-## tags
+## tags/blocks
 Contains custom tags to group certain blocks together.
 
