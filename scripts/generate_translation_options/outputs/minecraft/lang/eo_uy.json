@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Agordoj...",
+    "options.chunks": "\u00a7e%s\u00a76 pecaroj",
+    "options.clouds.fancy": "\u00a7cBela",
+    "options.clouds.fast": "\u00a7cRapida",
+    "options.difficulty": "\u00a76Malfacileco\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPaca",
+    "options.gamma": "\u00a76Heleco (Hela)\u00a7c",
+    "options.gamma.max": "\u00a7aHela",
+    "options.mipmapLevels": "\u00a76Mipmapaj niveloj (Ne)\u00a7e",
+    "options.renderClouds": "\u00a76Nuboj (Ne)\u00a7a",
+    "options.renderDistance": "\u00a76Bildiga distanco (7+)",
+    "options.video": "\u00a76Grafikopcioj..."
+}

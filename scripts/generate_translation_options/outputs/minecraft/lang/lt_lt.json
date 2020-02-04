@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Nustatymai...",
+    "options.chunks": "\u00a7e%s\u00a76 pasaulio dalis",
+    "options.clouds.fancy": "\u00a7cPra\u0161matn\u016bs",
+    "options.clouds.fast": "\u00a7cGreiti",
+    "options.difficulty": "\u00a76Sud\u0117tingumo lygis\u00a7a",
+    "options.difficulty.peaceful": "\u00a7ctaikus",
+    "options.gamma": "\u00a76Ry\u0161kumas (ry\u0161kus)\u00a7c",
+    "options.gamma.max": "\u00a7ary\u0161kus",
+    "options.mipmapLevels": "\u00a76Tekst\u016bros interpoliac. lygis (I\u0160J.)\u00a7e",
+    "options.renderClouds": "\u00a76Debesys (I\u0160J.)\u00a7a",
+    "options.renderDistance": "\u00a76Matomumas (7+)",
+    "options.video": "\u00a76Vaizdo nustatymai..."
+}

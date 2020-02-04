@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Mga Opsyon...",
+    "options.chunks": "\u00a7e%s\u00a76 mga tipak",
+    "options.clouds.fancy": "\u00a7cMagarbo",
+    "options.clouds.fast": "\u00a7cMabilis",
+    "options.difficulty": "\u00a76Kahirapan\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cMapayapa",
+    "options.gamma": "\u00a76Kasilawan (Maliwanag)\u00a7c",
+    "options.gamma.max": "\u00a7aMaliwanag",
+    "options.mipmapLevels": "\u00a76Antas ng Mipmap (SARADO)\u00a7e",
+    "options.renderClouds": "\u00a76Mga Ulap (SARADO)\u00a7a",
+    "options.renderDistance": "\u00a76Distansya ng Paningin (7+)",
+    "options.video": "\u00a76Setting ng Video..."
+}

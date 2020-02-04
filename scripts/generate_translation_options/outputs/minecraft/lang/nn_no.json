@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Innstillingar",
+    "options.chunks": "\u00a7e%s\u00a76 verdsbitar",
+    "options.clouds.fancy": "\u00a7cStilfullt",
+    "options.clouds.fast": "\u00a7cSn\u00f8gg",
+    "options.difficulty": "\u00a76Vanskegrad\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cFred p\u00e5 jord",
+    "options.gamma": "\u00a76Ljosstyrke (Ljost)\u00a7c",
+    "options.gamma.max": "\u00a7aLjost",
+    "options.mipmapLevels": "\u00a76Mipmap-niv\u00e5 (AV)\u00a7e",
+    "options.renderClouds": "\u00a76Skyer (AV)\u00a7a",
+    "options.renderDistance": "\u00a76Synsvidd (7+)",
+    "options.video": "\u00a76Grafikkinnstillingar..."
+}

@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Valikud...",
+    "options.chunks": "\u00a7e%s\u00a76 kamakat",
+    "options.clouds.fancy": "\u00a7cuhked",
+    "options.clouds.fast": "\u00a7ckiired",
+    "options.difficulty": "\u00a76Raskusaste\u00a7a",
+    "options.difficulty.peaceful": "\u00a7crahulik",
+    "options.gamma": "\u00a76Heledus (hele)\u00a7c",
+    "options.gamma.max": "\u00a7ahele",
+    "options.mipmapLevels": "\u00a76Mipmappimise tasemeid (V\u00c4LJAS)\u00a7e",
+    "options.renderClouds": "\u00a76Pilved (V\u00c4LJAS)\u00a7a",
+    "options.renderDistance": "\u00a76N\u00e4htavuskaugus (7+)",
+    "options.video": "\u00a76Graafikaseaded..."
+}

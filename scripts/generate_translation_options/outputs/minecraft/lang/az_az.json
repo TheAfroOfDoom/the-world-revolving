@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Se\u00e7iml\u0259r...",
+    "options.chunks": "\u00a7e%s\u00a76 y\u0131\u011f\u0131n",
+    "options.clouds.fancy": "\u00a7cH\u0259qiqi",
+    "options.clouds.fast": "\u00a7cS\u00fcr\u0259tli",
+    "options.difficulty": "\u00a76\u00c7\u0259tinlik\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cS\u00fclhsev\u0259r",
+    "options.gamma": "\u00a76Parlaql\u0131q (Parlaq)\u00a7c",
+    "options.gamma.max": "\u00a7aParlaq",
+    "options.mipmapLevels": "\u00a76Mipmap S\u0259viyy\u0259l\u0259ri (Qapal\u0131)\u00a7e",
+    "options.renderClouds": "\u00a76Buludlar (Qapal\u0131)\u00a7a",
+    "options.renderDistance": "\u00a76G\u00f6r\u00fc\u015f M\u0259saf\u0259si (7+)",
+    "options.video": "\u00a76Video Nizamlar\u0131..."
+}

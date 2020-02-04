@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Opsionet...",
+    "options.chunks": "\u00a7e%s\u00a76 cop\u00eb",
+    "options.clouds.fancy": "\u00a7cI bukur",
+    "options.clouds.fast": "\u00a7cI shpejt\u00eb",
+    "options.difficulty": "\u00a76V\u00ebshtir\u00ebsi\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPaq\u00ebsor",
+    "options.gamma": "\u00a76Shk\u00eblqim (T\u00eb ndritshme)\u00a7c",
+    "options.gamma.max": "\u00a7aT\u00eb ndritshme",
+    "options.mipmapLevels": "\u00a76Mipmap Nivelet (OFF)\u00a7e",
+    "options.renderClouds": "\u00a76Ret\u00eb (OFF)\u00a7a",
+    "options.renderDistance": "\u00a76T\u00eb B\u00ebj\u00eb Distanc\u00eb (7+)",
+    "options.video": "\u00a76Video Cil\u00ebsimet..."
+}

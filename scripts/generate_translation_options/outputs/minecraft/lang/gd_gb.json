@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Roghainnean...",
+    "options.chunks": "\u00a7e%s\u00a76 cnap",
+    "options.clouds.fancy": "\u00a7cSnasail",
+    "options.clouds.fast": "\u00a7cLuath",
+    "options.difficulty": "\u00a76Duilgheas\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cS\u00ectheil",
+    "options.gamma": "\u00a76Soilleireachd (Sorcha)\u00a7c",
+    "options.gamma.max": "\u00a7aSorcha",
+    "options.mipmapLevels": "\u00a76Leibheilean mipmap (DHETH)\u00a7e",
+    "options.renderClouds": "\u00a76Ne\u00f2il (DHETH)\u00a7a",
+    "options.renderDistance": "\u00a76Astar reandaraidh (7+)",
+    "options.video": "\u00a76Roghainnean video..."
+}

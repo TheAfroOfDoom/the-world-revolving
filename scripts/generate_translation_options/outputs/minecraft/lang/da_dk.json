@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Indstillinger...",
+    "options.chunks": "\u00a7e%s\u00a76 klodser",
+    "options.clouds.fancy": "\u00a7cFlot",
+    "options.clouds.fast": "\u00a7cHurtig",
+    "options.difficulty": "\u00a76Sv\u00e6rhedsgrad\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cFredelig",
+    "options.gamma": "\u00a76Lysstyrke (Lys)\u00a7c",
+    "options.gamma.max": "\u00a7aLys",
+    "options.mipmapLevels": "\u00a76Mipmapniveauer (FRA)\u00a7e",
+    "options.renderClouds": "\u00a76Skyer (FRA)\u00a7a",
+    "options.renderDistance": "\u00a76Synsl\u00e6ngde (7+)",
+    "options.video": "\u00a76Videoindstillinger..."
+}

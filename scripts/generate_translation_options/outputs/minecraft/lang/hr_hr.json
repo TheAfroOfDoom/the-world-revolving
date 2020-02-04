@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Postavke...",
+    "options.chunks": "\u00a7e%s\u00a76 chunkova",
+    "options.clouds.fancy": "\u00a7c\u0160minkerski",
+    "options.clouds.fast": "\u00a7cBrzi",
+    "options.difficulty": "\u00a76Te\u017eina\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cMiroljubivo",
+    "options.gamma": "\u00a76Osvjetljenje (Svijetlo)\u00a7c",
+    "options.gamma.max": "\u00a7aSvijetlo",
+    "options.mipmapLevels": "\u00a76Mipmap razina (Ne)\u00a7e",
+    "options.renderClouds": "\u00a76Oblaci (Ne)\u00a7a",
+    "options.renderDistance": "\u00a76Vidljivost (7+)",
+    "options.video": "\u00a76Postavke prikaza..."
+}

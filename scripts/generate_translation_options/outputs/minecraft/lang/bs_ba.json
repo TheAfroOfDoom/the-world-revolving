@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Opcije...",
+    "options.chunks": "\u00a7e%s\u00a76 chunkova",
+    "options.clouds.fancy": "\u00a7cLijepo",
+    "options.clouds.fast": "\u00a7cBrzo",
+    "options.difficulty": "\u00a76Te\u017eina\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cMirno",
+    "options.gamma": "\u00a76Svjetlina (Svijetlo)\u00a7c",
+    "options.gamma.max": "\u00a7aSvijetlo",
+    "options.mipmapLevels": "\u00a76Mipmap nivoi (ISKLJU\u010cENO)\u00a7e",
+    "options.renderClouds": "\u00a76Oblaci (ISKLJU\u010cENO)\u00a7a",
+    "options.renderDistance": "\u00a76Vidljivost (7+)",
+    "options.video": "\u00a76Video opcije..."
+}

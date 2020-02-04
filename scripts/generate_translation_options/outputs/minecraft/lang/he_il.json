@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76\u05d0\u05e4\u05e9\u05e8\u05d5\u05d9\u05d5\u05ea...",
+    "options.chunks": "\u00a7e%s\u00a76 \u05e6'\u05d0\u05e0\u05e7\u05d9\u05dd",
+    "options.clouds.fancy": "\u00a7c\u05de\u05e4\u05d5\u05d0\u05e8",
+    "options.clouds.fast": "\u00a7c\u05de\u05d4\u05d9\u05e8",
+    "options.difficulty": "\u00a76\u05e8\u05de\u05ea \u05e7\u05d5\u05e9\u05d9\u00a7a",
+    "options.difficulty.peaceful": "\u00a7c\u05e9\u05dc\u05d5\u05d5\u05d4",
+    "options.gamma": "\u00a76\u05d1\u05d4\u05d9\u05e8\u05d5\u05ea (\u05d1\u05d4\u05d9\u05e8)\u00a7c",
+    "options.gamma.max": "\u00a7a\u05d1\u05d4\u05d9\u05e8",
+    "options.mipmapLevels": "\u00a76\u05e8\u05de\u05d5\u05ea Mipmap (\u05db\u05d1\u05d5\u05d9)\u00a7e",
+    "options.renderClouds": "\u00a76\u05e2\u05e0\u05e0\u05d9\u05dd (\u05db\u05d1\u05d5\u05d9)\u00a7a",
+    "options.renderDistance": "\u00a76\u05de\u05e8\u05d7\u05e7 \u05e8\u05d0\u05d9\u05d4 (7+)",
+    "options.video": "\u00a76\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05d5\u05d9\u05d3\u05d0\u05d5..."
+}

@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Asetukset...",
+    "options.chunks": "\u00a7e%s\u00a76 lohkoa",
+    "options.clouds.fancy": "\u00a7cHieno",
+    "options.clouds.fast": "\u00a7cNopea",
+    "options.difficulty": "\u00a76Vaikeustaso\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cRauhallinen",
+    "options.gamma": "\u00a76Kirkkaus (Kirkas)\u00a7c",
+    "options.gamma.max": "\u00a7aKirkas",
+    "options.mipmapLevels": "\u00a76Mipmap-tasot (Pois)\u00a7e",
+    "options.renderClouds": "\u00a76Pilvet (Pois)\u00a7a",
+    "options.renderDistance": "\u00a76N\u00e4k\u00f6et\u00e4isyys (7+)",
+    "options.video": "\u00a76Videoasetukset..."
+}

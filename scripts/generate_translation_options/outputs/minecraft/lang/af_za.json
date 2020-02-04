@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Opsies...",
+    "options.chunks": "\u00a7e%s\u00a76 stukke",
+    "options.clouds.fancy": "\u00a7cFraai",
+    "options.clouds.fast": "\u00a7cVinnig",
+    "options.difficulty": "\u00a76Moeilikheid\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cVreedsaam",
+    "options.gamma": "\u00a76Helderheid (Helder)\u00a7c",
+    "options.gamma.max": "\u00a7aHelder",
+    "options.mipmapLevels": "\u00a76Mipmap Vlakke (AF)\u00a7e",
+    "options.renderClouds": "\u00a76Wolke (AF)\u00a7a",
+    "options.renderDistance": "\u00a76Sigafstand (7+)",
+    "options.video": "\u00a76Beeld Verstellings..."
+}

@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Enstellunge \u2026",
+    "options.chunks": "\u00a7e%s\u00a76 Tschanks",
+    "options.clouds.fancy": "\u00a7cRaffineete",
+    "options.clouds.fast": "\u00a7cFl\u00f6ck",
+    "options.difficulty": "\u00a76Schwierischkeet\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cFredlich",
+    "options.gamma": "\u00a76Hellichkeet (Hell)\u00a7c",
+    "options.gamma.max": "\u00a7aHell",
+    "options.mipmapLevels": "\u00a76Mipm\u00e4p-Stofe (Us)\u00a7e",
+    "options.renderClouds": "\u00a76Wolke (Us)\u00a7a",
+    "options.renderDistance": "\u00a76Luurwick (7+)",
+    "options.video": "\u00a76Jrafik-Enstellunge \u2026"
+}

@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Thy wishes...",
+    "options.chunks": "\u00a7e%s\u00a76 world pieces",
+    "options.clouds.fancy": "\u00a7cFancy",
+    "options.clouds.fast": "\u00a7cSimple",
+    "options.difficulty": "\u00a76Difficulty\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cPeaceful",
+    "options.gamma": "\u00a76Brightness (Bright)\u00a7c",
+    "options.gamma.max": "\u00a7aBright",
+    "options.mipmapLevels": "\u00a76Mipmap Levels (OFF)\u00a7e",
+    "options.renderClouds": "\u00a76Clouds (OFF)\u00a7a",
+    "options.renderDistance": "\u00a76Eyes Range (7+)",
+    "options.video": "\u00a76Thy Visages Gaze..."
+}

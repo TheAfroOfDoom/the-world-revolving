@@ -1,0 +1,15 @@
+{
+    "block.minecraft.bed.no_sleep": "",
+    "menu.options": "\u00a76Scribble...",
+    "options.chunks": "\u00a7e%s\u00a76 feet",
+    "options.clouds.fancy": "\u00a7cDashing",
+    "options.clouds.fast": "\u00a7cQuick",
+    "options.difficulty": "\u00a76Danger Level\u00a7a",
+    "options.difficulty.peaceful": "\u00a7cWuss",
+    "options.gamma": "\u00a76Sunshinin' (Blinding)\u00a7c",
+    "options.gamma.max": "\u00a7aBlinding",
+    "options.mipmapLevels": "\u00a76Levels o' Mipmap (NAY)\u00a7e",
+    "options.renderClouds": "\u00a76Sun Cov'r (NAY)\u00a7a",
+    "options.renderDistance": "\u00a76Height o' t'Mast (7+)",
+    "options.video": "\u00a76Spectacles..."
+}
