@@ -1,5 +1,5 @@
 # the-world-revolving
-#### A full recreation of Jevil from Deltarune.  This repo includes all the assets and code developed for this project.
+#### A full recreation of Jevil from Deltarune.  This repo includes all the assets, code, and scripts developed for this project.
 
 ![](https://media.giphy.com/media/mGPgoZ7bXPOwxmgF6k/giphy.gif)
 
